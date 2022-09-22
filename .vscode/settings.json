@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\walia6\\Downloads\\guava-31.1-jre.jar"
+    ]
+}
